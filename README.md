@@ -45,6 +45,14 @@ Applications and Use Cases of this chat application include:
 
  Local chat on LAN networks (like between classroom computers)
 
+ OUTPUT
+
+ ![Image](https://github.com/user-attachments/assets/8fe9ff79-874a-4274-bf1f-a180c87da732)
+
+![Image](https://github.com/user-attachments/assets/38692ca4-4c74-4637-bee1-84898ad13e37)
+
+![Image](https://github.com/user-attachments/assets/3c91f0f2-d343-4fe2-8b08-06ed9abdc592)
+
  Foundation for building real-time communication tools (e.g., customer support systems, collaborative tools)
 
  Text-based chat for games or developer collaboration tools
